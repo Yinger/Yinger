@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Linux,Tensorflow2.x and React
 - 📫 How to reach me: melody.crazycoding@gmail.com
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yinger&hide_langs_below=1)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yinger&hide_langs_below=0)](https://github.com/anuraghazra/github-readme-stats)
