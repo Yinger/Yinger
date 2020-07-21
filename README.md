@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 - 👯 The main technology stack is: .Net(NetCore)
 - 🌱 I’m currently learning Linux,Tensorflow2.x and React
 - 📫 How to reach me: melody.crazycoding@gmail.com
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Yinger)](https://github.com/anuraghazra/github-readme-stats)
