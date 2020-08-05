@@ -35,12 +35,12 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=CentOS&logoColor=ffffff)](https://www.centos.org/)
 [![](https://img.shields.io/badge/Visual%20Studio-5c2d91?style=flat-square&logo=visual-studio&logoColor=ffffff)](https://code.visualstudio.com/)
 [![](https://img.shields.io/badge/Visual%20Studio%20Code-007acc?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
+[![](https://img.shields.io/badge/-Jupyter-f37626?style=flat-square&logo=Jupyter&logoColor=ffffff)](https://jupyter.org/)
 
 [![](https://img.shields.io/badge/-Core-5c2d91?style=flat-square&logo=.Net&logoColor=ffffff)](https://dotnet.microsoft.com/)
 [![](https://img.shields.io/badge/-TypeScript-007acc?style=flat-square&logo=TypeScript&logoColor=ffffff)](https://www.typescriptlang.org/)
 [![](https://img.shields.io/badge/-React-61dafb?style=flat-square&logo=react&logoColor=ffffff)](https://reactjs.org/)
 [![](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=Python&logoColor=ffffff)](https://www.python.org/)
 [![](https://img.shields.io/badge/-TensorFlow-ff6f00?style=flat-square&logo=TensorFlow&logoColor=ffffff)](https://www.tensorflow.org/)
-[![](https://img.shields.io/badge/-Jupyter-f37626?style=flat-square&logo=Jupyter&logoColor=ffffff)](https://jupyter.org/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yinger&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
