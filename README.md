@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/-Docker-2496ed?style=flat-square&logo=Docker&logoColor=ffffff)](https://www.docker.com/)
 [![](https://img.shields.io/badge/-Kubernetes-326ce5?style=flat-square&logo=Kubernetes&logoColor=ffffff)](https://kubernetes.io/)
 [![](https://img.shields.io/badge/-Swagger-85ea2d?style=flat-square&logo=Swagger&logoColor=000000)](https://swagger.io/)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yinger&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
 
@@ -43,4 +45,4 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=Python&logoColor=ffffff)](https://www.python.org/)
 [![](https://img.shields.io/badge/-TensorFlow-ff6f00?style=flat-square&logo=TensorFlow&logoColor=ffffff)](https://www.tensorflow.org/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yinger&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Yinger)](https://github.com/anuraghazra/github-readme-stats)
