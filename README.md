@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 - 🔭 I'm a software engineer
 - 👯 The main technology stack is: .Net(NetCore)
-- 🌱 I’m currently learning Linux,Tensorflow2.x and React
+- 🌱 I’m currently learning Linux,Tensorflow2.x and Rust
 - 📫 How to reach me: melody.crazycoding@gmail.com
 
 
