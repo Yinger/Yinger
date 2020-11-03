@@ -26,12 +26,10 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yinger&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-
 - 🔭 I'm a software engineer
 - 👯 The main technology stack is: .Net(NetCore)
 - 🌱 I’m currently learning Linux,Tensorflow2.x and Rust
 - 📫 How to reach me: melody.crazycoding@gmail.com
-
 
 [![](https://img.shields.io/badge/Windows-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
 [![](https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=CentOS&logoColor=ffffff)](https://www.centos.org/)
@@ -44,5 +42,9 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/-React-61dafb?style=flat-square&logo=react&logoColor=ffffff)](https://reactjs.org/)
 [![](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=Python&logoColor=ffffff)](https://www.python.org/)
 [![](https://img.shields.io/badge/-TensorFlow-ff6f00?style=flat-square&logo=TensorFlow&logoColor=ffffff)](https://www.tensorflow.org/)
+
+[![](https://img.shields.io/badge/Docker-2376bc?style=flat-square&logo=docker&logoColor=ffffff)](#)
+[![](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=ffffff)](https://www.nginx.com/)
+[![](https://img.shields.io/badge/Consul-bd1e69?style=flat-square&logo=consul&logoColor=ffffff)](https://www.consul.io/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yinger&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
