@@ -33,9 +33,11 @@ Here are some ideas to get you started:
 
 [![](https://img.shields.io/badge/Windows-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
 [![](https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=CentOS&logoColor=ffffff)](https://www.centos.org/)
+
 [![](https://img.shields.io/badge/Visual%20Studio-5c2d91?style=flat-square&logo=visual-studio&logoColor=ffffff)](https://code.visualstudio.com/)
 [![](https://img.shields.io/badge/Visual%20Studio%20Code-007acc?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
 [![](https://img.shields.io/badge/-Jupyter-f37626?style=flat-square&logo=Jupyter&logoColor=ffffff)](https://jupyter.org/)
+[![](https://img.shields.io/badge/Vim-019733?style=flat-square&logo=vim&logoColor=ffffff)](#)
 
 [![](https://img.shields.io/badge/-Core-5c2d91?style=flat-square&logo=.Net&logoColor=ffffff)](https://dotnet.microsoft.com/)
 [![](https://img.shields.io/badge/-TypeScript-007acc?style=flat-square&logo=TypeScript&logoColor=ffffff)](https://www.typescriptlang.org/)
@@ -52,5 +54,8 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/Docker-2376bc?style=flat-square&logo=docker&logoColor=ffffff)](#)
 [![](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=ffffff)](https://www.nginx.com/)
 [![](https://img.shields.io/badge/Consul-bd1e69?style=flat-square&logo=consul&logoColor=ffffff)](https://www.consul.io/)
+
+[![](https://img.shields.io/badge/Cypress-17202c?style=flat-square&logo=cypress&logoColor=ffffff)](#)
+[![](https://img.shields.io/badge/Locust-006643?style=flat-square&logo=locust&logoColor=ffffff)](#)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yinger&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
