@@ -48,4 +48,9 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=ffffff)](https://www.nginx.com/)
 [![](https://img.shields.io/badge/Consul-bd1e69?style=flat-square&logo=consul&logoColor=ffffff)](https://www.consul.io/)
 
+[![](https://img.shields.io/badge/SqlServer-cc2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=ffffff)](#)
+[![](https://img.shields.io/badge/SQLite-003b57?style=flat-square&logo=sqlite&logoColor=ffffff)](#)
+[![](https://img.shields.io/badge/MongoDB-47a248?style=flat-square&logo=mongodb&logoColor=ffffff)](https://www.mongodb.com/)
+[![](https://img.shields.io/badge/Redis-dc382d?style=flat-square&logo=redis&logoColor=ffffff)](#)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yinger&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
