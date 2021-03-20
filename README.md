@@ -24,12 +24,13 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/-Swagger-85ea2d?style=flat-square&logo=Swagger&logoColor=000000)](https://swagger.io/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yinger&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
--->
+
 
 - 🔭 I'm a software engineer
 - 👯 The main technology stack is: .Net(NetCore)
 - 🌱 I’m currently learning Linux,Tensorflow2.x and Rust
 - 📫 How to reach me: melody.crazycoding@gmail.com
+-->
 
 [![](https://img.shields.io/badge/Windows-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
 [![](https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=CentOS&logoColor=ffffff)](https://www.centos.org/)
