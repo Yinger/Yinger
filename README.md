@@ -62,5 +62,6 @@ Here are some ideas to get you started:
 
 [![](https://img.shields.io/badge/Cypress-17202c?style=flat-square&logo=cypress&logoColor=ffffff)](#)
 [![](https://img.shields.io/badge/Locust-006643?style=flat-square&logo=locust&logoColor=ffffff)](#)
+[![](https://img.shields.io/badge/Swagger-85ea2d?style=flat-square&logo=swagger&logoColor=ffffff)](#)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yinger&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
