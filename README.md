@@ -30,6 +30,8 @@ Here are some ideas to get you started:
 - 👯 The main technology stack is: .Net(NetCore)
 - 🌱 I’m currently learning Linux,Tensorflow2.x and Rust
 - 📫 How to reach me: melody.crazycoding@gmail.com
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yinger&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
 [![](https://img.shields.io/badge/Windows-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
@@ -65,4 +67,4 @@ Here are some ideas to get you started:
 
 [![](https://img.shields.io/badge/-TensorFlow-ff6f00?style=flat-square&logo=TensorFlow&logoColor=ffffff)](https://www.tensorflow.org/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yinger&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
