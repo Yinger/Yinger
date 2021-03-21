@@ -49,7 +49,6 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=Python&logoColor=ffffff)](https://www.python.org/)
 [![](https://img.shields.io/badge/Golang-15a9c8?style=flat-square&logo=Go&logoColor=ffffff)](#)
 [![](https://img.shields.io/badge/Bash-4eaa25?style=flat-square&logo=gnu%20bash&logoColor=ffffff)](#)
-[![](https://img.shields.io/badge/-TensorFlow-ff6f00?style=flat-square&logo=TensorFlow&logoColor=ffffff)](https://www.tensorflow.org/)
 
 [![](https://img.shields.io/badge/SqlServer-cc2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=ffffff)](#)
 [![](https://img.shields.io/badge/SQLite-003b57?style=flat-square&logo=sqlite&logoColor=ffffff)](#)
@@ -63,5 +62,7 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/Cypress-17202c?style=flat-square&logo=cypress&logoColor=ffffff)](#)
 [![](https://img.shields.io/badge/Locust-006643?style=flat-square&logo=locust&logoColor=ffffff)](#)
 [![](https://img.shields.io/badge/Swagger-85ea2d?style=flat-square&logo=swagger&logoColor=ffffff)](#)
+
+[![](https://img.shields.io/badge/-TensorFlow-ff6f00?style=flat-square&logo=TensorFlow&logoColor=ffffff)](https://www.tensorflow.org/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yinger&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
