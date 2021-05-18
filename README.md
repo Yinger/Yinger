@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/Vim-019733?style=flat-square&logo=vim&logoColor=ffffff)](#)
 
 [![](https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=c%20sharp&logoColor=ffffff)](#)
-[![](https://img.shields.io/badge/-Core-5c2d91?style=flat-square&logo=.Net&logoColor=ffffff)](https://dotnet.microsoft.com/)
+[![](https://img.shields.io/badge/-Core-5c2d91?style=flat-square&logo=dot-net&logoColor=ffffff)](https://dotnet.microsoft.com/)
 [![](https://img.shields.io/badge/-TypeScript-007acc?style=flat-square&logo=TypeScript&logoColor=ffffff)](https://www.typescriptlang.org/)
 [![](https://img.shields.io/badge/-React-61dafb?style=flat-square&logo=react&logoColor=ffffff)](https://reactjs.org/)
 [![](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=ffffff)](#)
